@@ -1657,6 +1657,7 @@ namespace DictEntryReg {
     {"custom_code",WRAPMEM_GET(T::custom_code)},
     {"remaining_code_length",WRAPMEM_GET(T::remaining_code_length)},
     {"code",WRAPMEM_GET(T::code)},
+    {"tick_diff",WRAPMEM_GET(T::tick_diff)},
     { NULL, NULL },
   };
 
